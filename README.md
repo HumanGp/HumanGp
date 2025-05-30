@@ -1,7 +1,8 @@
 
 <!-- MasterHead -->
-<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img src="./assets/Gifs/mario_V1.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+<a href="https://github.com/HumanGp/JoshuaThadi/blob/main/assets/Gifs/mario_V1.gif">
+  <img src="https://raw.githubusercontent.com/HumanGp/HumanGp/main/assets/Gifs/mario_V1.gif" alt="Mario GIF" />
+
 </a>
 
 
