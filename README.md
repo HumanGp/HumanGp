@@ -2,7 +2,6 @@
 <!-- MasterHead -->
 <a href="https://github.com/HumanGp/JoshuaThadi/blob/main/assets/Gifs/mario_V1.gif">
   <img src="https://raw.githubusercontent.com/HumanGp/HumanGp/main/assets/Gifs/mario_V1.gif" alt="Mario GIF" />
-
 </a>
 
 
@@ -43,7 +42,7 @@
 
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="450" src="./assets/Gifs/mario_V3.gif">
+<img align="right" alt="coding-gif" width="450" src="./assets/Gifs/mario_V2.gif">
 
 
 <!-- about me -->
