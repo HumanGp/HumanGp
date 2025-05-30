@@ -1,6 +1,6 @@
 
 <!-- MasterHead -->
-<a href="https://github.com/HumanGp/JoshuaThadi/blob/main/assets/Gifs/mario_V1.gif">
+<a href="https://github.com/HumanGp/blob/main/assets/Gifs/mario_V1.gif">
   <img src="https://raw.githubusercontent.com/HumanGp/HumanGp/main/assets/Gifs/mario_V1.gif" alt="Mario GIF" />
 </a>
 
@@ -42,7 +42,7 @@
 
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="450" src="./assets/Gifs/mario_V2.gif">
+<img align="right" alt="coding-gif" width="450" src="https://raw.githubusercontent.com/HumanGp/HumanGp/main/assets/Gifs/mario_V2.gif">
 
 
 <!-- about me -->
@@ -167,9 +167,11 @@
 
 
 <!-- ending-->
-<a href=""><img src="./assets/Gifs/js_flow_V1.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
+<a href="">
+<img src="./assets/Gifs/js_flow_V1.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+</a>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+<img src="https://raw.githubusercontent.com/HumanGp/HumanGp/main/assets/Gifs/js_flow_V1.gif" alt="JavaScript Factory GIF" style="width:auto; height:auto"/>
 
 <p>⚠️ This README is uniquely designed by <strong>HumanGpt</strong>.
 
