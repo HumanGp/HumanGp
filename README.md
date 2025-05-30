@@ -168,10 +168,9 @@
 
 <!-- ending-->
 <a href="">
-<img src="./assets/Gifs/js_flow_V1.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
-</a>
-
 <img src="https://raw.githubusercontent.com/HumanGp/HumanGp/main/assets/Gifs/js_flow_V1.gif" alt="JavaScript Factory GIF" style="width:auto; height:auto"/>
+</a>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 <p>⚠️ This README is uniquely designed by <strong>HumanGpt</strong>.
 
