@@ -65,20 +65,11 @@
 <a href="mailto:dennis.njoroge8711@gmail.com">
   <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a> 
   
-  <!-- 
-      updating soon....
-  <a href="https://www.linkedin.com/in/HumanGpt?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank">
-    <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a> 
-    
-  <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank">
+ 
+  
+  <a href="https://human-gpt-dev.vercel.app/" target="_blank">
     <img width="60px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/a8/f0/64a8f040-e207-e01a-f2e3-2e5d75c68447/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/350x350.png?" alt="Portfolio Badge"></a>
-
-<a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank">
-  <img width="60px" src="https://cdn.jim-nielsen.com/watchos/512/spotify-music-and-podcasts-2020-03-19.png?rf=1024" alt="Spotify Badge"></a>
-
-<a href="https://www.youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n" target="_blank">
-  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/2048px-YouTube_play_button_square_%282013-2017%29.svg.png" alt="YouTube Badge"></a> -->
-
+    
 
   
   <!--<a href="https://HumanGp.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
@@ -88,12 +79,7 @@
 </div>
 <br/>
 
-<!--Experence and experencing
-<h3 align="center">🔆 Work'ed and Wor'king</h3>
-<div align="center" style="display: flex; gap: 10px;">
-    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom1_rounded.png" alt="UOM Logo" width="350" style="border-radius: 10px;">
-    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom2_rounded.png" alt="HGS Logo" width="355" style="border-radius: 10px;">
-</div>-->
+
 
 
 
@@ -129,16 +115,7 @@
 
 
 
-<!-- top repo and teck stack
-<div align="center">
-  <h3>⭐️ Best Repositories</h3>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/JoshuaThadi/Data-Science">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Data-Science&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
-    <a href="https://github.com/JoshuaThadi/Artificial-Intelligence">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Artificial-Intelligence&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
-    </a>
-</div> -->
+
 
   
   <h3>💻 Tech Stack:</h3>
